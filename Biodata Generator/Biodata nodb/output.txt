@@ -1,0 +1,11 @@
+Name : Dinesh S K
+Mobile : 6369073734
+Gender : Male
+DOB : 4/Mar/2000
+Address : 1/13,Gandhi Nagar,Sankari,
+Salem,637504
+Educational Qualifications : B.E
+Pincode : 637504
+10th Percentage : 90%
+12th Percentage : 90%
+Programming Languages known : C,C++,Java,Python
